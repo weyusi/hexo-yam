@@ -27,7 +27,7 @@
     "html-minifier": "^4.0.0",
     "micromatch": "^4.0.2",
     "svgo": "^1.2.2",
-    "terser": "^4.0.0"
+    "terser": "^4.5.1"
   },
   "devDependencies": {
     "hexo": "^4.2.0",
